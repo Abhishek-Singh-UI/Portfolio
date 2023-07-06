@@ -1,0 +1,70 @@
+@import './components/variable';
+
+.wrapper {
+    max-width: 1150px;
+    margin: 0 auto;
+  }
+  .content {
+    margin: 0 auto;
+    max-width: 1000px;
+    @media #{$tablet-max-1023} {
+        margin: 0 auto;
+        max-width: 90%;
+        padding: 0 10px;
+    }
+  }
+
+.active {
+    color: #14b8a6 !important;
+}
+.header-menu {
+    position: sticky !important;
+    top: 0;
+    z-index: 1;
+    padding: 2% 0 8% 0 !important;
+}
+.navbar {
+    justify-content: center !important;
+}
+@media #{$tablet-max-1023} { 
+    .navbar-nav {
+        flex-direction: row !important;
+        padding-right: 68px !important;
+    }
+ }
+.menu {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 25px;
+    padding: 0.2% 9.5%;
+    background: white;
+    .nav-item-menu {
+        padding: 0 3%;
+
+        a {
+            font-size: 12.8px;
+            font-weight: 700;
+        }
+    }
+}
+.logo-div {
+    width: 9%;
+    border-radius: 64%;
+    position: sticky;
+    top: 20px;
+    z-index: 1;
+    transition: width 0.1s;
+    margin-bottom: 4%;
+}
+.stick {
+    width: 4.5%;
+    box-shadow: 0 4px 10px rgba(0,0,0,.25);
+    @media #{$iphone-max-768}  {
+        width: 11%;
+        padding-top: 1.5% ;
+    }
+}
+
+.logo-div img {
+    border-radius: 64%;
+    width: 100%;
+}

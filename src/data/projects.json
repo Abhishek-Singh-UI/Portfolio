@@ -1,0 +1,63 @@
+{
+    "projects": [
+        {
+            "id": "1",
+            "logo": "images/icons/html.png",
+            "title": "Lazy Load",
+            "description": "This Project is regarding the lazy load concept that is implemented on the websites for pages such as PLP.This conceptcan be easily implemented using certain dependencies but it is better to use certain API for it.Here in this I have used INTERSECTION OBSERVER api.",
+            "github_link": "https://github.com/Abhishek-Singh-UI/lazy-load",
+            "class":"html_img"
+        },
+        {
+            "id": "2",
+            "logo": "images/icons/javascript.png",
+            "title": "Figma Tokenisation",
+            "description": "This project is regarding developing a website where data from a JSON file is displayed on the website. The website usually contains the dataof figma values. Additionally, the website also provides the facility for editingthe data, and that data reflects in JSON.",
+            "github_link": "https://github.com/Abhishek-Singh-UI/figma_tokenisation",
+            "class":"js_class"
+        },
+        {
+            "id": "3",
+            "logo": "images/icons/css.png",
+            "title": "Find a Class Redesign",
+            "description": "This Project is regarding the redesign of a find a class page. This webpage is designed according to a ADOBE XD design provided to me.For functionality i have used JQuery. This code works properly for iphones and Ipads.However, there are different modals in it.",
+            "github_link": "https://github.com/Abhishek-Singh-UI/find-a-class-redesign",
+            "class":"css_class"
+        },
+        {
+            "id": "4",
+            "logo": "images/icons/javascript.png",
+            "title": "React",
+            "description": "This Project is regarding the React project. In this project, i have worked the concepts like components, props , usestates, useeffects , usereducer etc.",
+            "github_link": "https://github.com/Abhishek-Singh-UI/react",
+            "class":"js_class"
+        }
+    ],
+    "information": {
+            "article": [
+            {
+                "id": "1",
+                "card_subtitle": "|  24 june 2023",
+                "card_title": "Sonoma proves that macOS has matured enough that subsequent updates could be trivial",
+                "card_text": "Every WWDC, Apple unveils a fresh set of major operating system updates that its devices receive a few months later, and WWDC23 was no different. We got a preview of iOS 17, iPadOS 17, watchOS 10, and macOS Sonoma.",
+                "card_link": "https://www.xda-developers.com/sonoma-proves-macos-matured/"
+            },
+            {
+                "id": "2",
+                "card_subtitle": "|  23 june 2023",
+                "card_title": "How does x86 translation work on Windows on Arm?",
+                "card_text": "Windows has always been made for x86 CPUs from Intel and AMD, but ever since Windows RT came out a decade ago for smartphones, the operating system has slowly been becoming more friendly to Arm CPUs. ",
+                "card_link": "https://www.xda-developers.com/how-x86-translation-work-windows-on-arm/?newsletter_popup=1"
+            }
+        ],
+        "experience": [
+            {
+                "id":"1",
+                "organisation": "Merkle Inspire",
+                "logo": "images/icons/merkle.jpg",
+                "designation": "Associate Front end developer",
+                "yoj": "2022"
+            }
+        ]
+    }   
+}

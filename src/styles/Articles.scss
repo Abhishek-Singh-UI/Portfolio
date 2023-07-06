@@ -1,0 +1,23 @@
+.Article_main {
+    width: 70% !important;
+    .banner-description {
+        padding-top: 6%;
+    }
+}
+.ARTICLES {
+    width: 100%;
+    border-left: 2px solid #f4f4f5;
+    .d-flex {
+        padding-bottom: 2%;
+    }
+    .card-subtitle {
+        width: 40%;
+        display: flex;
+        justify-content: center;
+        padding-top: 2.5%;
+    }
+    .card {
+        padding: 1%;
+        border-radius: 18px;
+    }
+}

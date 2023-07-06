@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abf907e3.css",
+    "main.js": "/static/js/main.4c4f209e.js",
+    "static/media/man.jpg": "/static/media/man.6e22a6245c42a00c743c.jpg",
+    "static/media/Roboto-Black.ttf": "/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
+    "static/media/about.jpg": "/static/media/about.c7b68c263d1b3fca96c0.jpg",
+    "static/media/Heebo-Light.ttf": "/static/media/Heebo-Light.81b8083bf3a45d2b5559.ttf",
+    "static/media/logo.png": "/static/media/logo.1237bcab8ae084b777bd.png",
+    "index.html": "/index.html",
+    "main.abf907e3.css.map": "/static/css/main.abf907e3.css.map",
+    "main.4c4f209e.js.map": "/static/js/main.4c4f209e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abf907e3.css",
+    "static/js/main.4c4f209e.js"
+  ]
+}
